@@ -1,5 +1,5 @@
 # tarefa.nodejs
-1 passo: Passo: Copie o código do outro arquivo que eu postei nesse repositório 
+1 passo: Copie o código do outro arquivo que eu postei nesse repositório 
 2°Passo: Abra o terminal e ative o nodejs-env(source ./nodejs-env/bin/activate) 
 3°Passo: Crie um arquivo js(sudo nano index.js) 
 4°Passo: Dentro desse arquivo cole o código que você copiou do outro arquivo 
